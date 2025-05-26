@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🌸 Awesome Spring Boot 🚀</h1>
+<h1 align="center">Awesome Spring Boot 🚀</h1>
 
 A curated list of tutorials, YouTube channels, blogs, and open-source projects to learn **Spring Boot**.
 
