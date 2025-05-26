@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://spring.io/images/projects/spring-boot-5af937eae6b24e8db9697f67b1a58c82.svg" alt="Spring Boot Logo" width="120" />
-</p>
+
 
 <h1 align="center">🌸 Awesome Spring Boot 🚀</h1>
 
