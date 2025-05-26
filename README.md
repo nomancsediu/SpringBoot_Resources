@@ -2,7 +2,7 @@
 
 <h1 align="center">🌸 Awesome Spring Boot 🚀</h1>
 
-A curated list of awesome blogs, tutorials, YouTube channels, books, and open-source projects to learn **Spring Boot**.
+A curated list of tutorials, YouTube channels, blogs, and open-source projects to learn **Spring Boot**.
 
 ---
 ## 🎥 Best YouTube Channels to Learn Spring Boot
@@ -38,8 +38,6 @@ A curated list of awesome blogs, tutorials, YouTube channels, books, and open-so
 - [SivaLabs](https://www.sivalabs.in/categories/springboot/) – Focus on real-world Spring Boot and Microservices.
 
 🔗 **More resources:** [JavaGuides Blog](https://www.javaguides.net/2019/07/best-spring-boot-tutorials.html)
-
----
 
 ---
 
