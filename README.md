@@ -5,6 +5,19 @@
 A curated list of awesome blogs, tutorials, YouTube channels, books, and open-source projects to learn **Spring Boot**.
 
 ---
+## 🎥 Best YouTube Channels to Learn Spring Boot
+
+- [Java Guides](https://www.youtube.com/c/JavaGuides/playlists)
+- [Java Techie](https://www.youtube.com/channel/UCORuRdpN2QTCKnsuEaeK-kQ)
+- [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
+- [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
+- [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
+- [SpringDeveloper (Official)](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)
+- [in28minutes](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA)
+- [Concept && Coding](https://www.youtube.com/@ConceptandCoding) – Shrayansh's channel offering in-depth tutorials on Spring Boot, Java, System Design, and more.
+
+🔗 **More channels:** [JavaGuides YouTube List](https://www.javaguides.net/2020/06/best-youtube-channels-to-learn-spring-boot.html)
 
 ## 📚 Best Blogs and Websites to Learn Spring Boot
 
@@ -27,20 +40,6 @@ A curated list of awesome blogs, tutorials, YouTube channels, books, and open-so
 🔗 **More resources:** [JavaGuides Blog](https://www.javaguides.net/2019/07/best-spring-boot-tutorials.html)
 
 ---
-
-## 🎥 Best YouTube Channels to Learn Spring Boot
-
-- [Java Guides](https://www.youtube.com/c/JavaGuides/playlists)
-- [Java Techie](https://www.youtube.com/channel/UCORuRdpN2QTCKnsuEaeK-kQ)
-- [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
-- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
-- [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
-- [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
-- [SpringDeveloper (Official)](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)
-- [in28minutes](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA)
-- [Concept && Coding](https://www.youtube.com/@ConceptandCoding) – Shrayansh's channel offering in-depth tutorials on Spring Boot, Java, System Design, and more.
-
-🔗 **More channels:** [JavaGuides YouTube List](https://www.javaguides.net/2020/06/best-youtube-channels-to-learn-spring-boot.html)
 
 ---
 
