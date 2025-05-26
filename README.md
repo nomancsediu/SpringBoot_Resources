@@ -1,6 +1,10 @@
-# Awesome Spring Boot 🚀
+<p align="center">
+  <img src="https://spring.io/images/projects/spring-boot-5af937eae6b24e8db9697f67b1a58c82.svg" alt="Spring Boot Logo" width="120" />
+</p>
 
-A curated list of awesome blogs, tutorials, YouTube channels, books, and open-source projects to learn and master Spring Boot.
+<h1 align="center">🌸 Awesome Spring Boot 🚀</h1>
+
+A curated list of awesome blogs, tutorials, YouTube channels, books, and open-source projects to learn **Spring Boot**.
 
 ---
 
@@ -36,6 +40,7 @@ A curated list of awesome blogs, tutorials, YouTube channels, books, and open-so
 - [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 - [SpringDeveloper (Official)](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)
 - [in28minutes](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA)
+- [Concept && Coding](https://www.youtube.com/@ConceptandCoding) – Shrayansh's channel offering in-depth tutorials on Spring Boot, Java, System Design, and more.
 
 🔗 **More channels:** [JavaGuides YouTube List](https://www.javaguides.net/2020/06/best-youtube-channels-to-learn-spring-boot.html)
 
@@ -66,9 +71,10 @@ A curated list of awesome blogs, tutorials, YouTube channels, books, and open-so
 - [Bootify](https://bootify.io) – Generate custom Spring Boot projects.
 - [JHipster](https://www.jhipster.tech/) – Build modern web apps and microservices with Spring Boot.
 
-
-
-**Thank you for visiting! 💖**
-
 ---
 
+## 🙏 Thank You for Visiting!
+
+Happy coding with Spring Boot! 🌱🚀
+
+---
